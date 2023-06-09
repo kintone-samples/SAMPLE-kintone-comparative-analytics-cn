@@ -15,4 +15,4 @@ npm run build
 
 https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js
 
-再修改src/index.js,移除第一行的import语句后上传到kintone app
+再修改src/index.js,移除第二行的import语句后上传到kintone app
